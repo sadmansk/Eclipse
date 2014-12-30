@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_scripts\exitApplication.cs">
+    <Files>
+      <File FileName="Assets\_scripts\sun_survival.cs" Line="16" Column="4" />
+      <File FileName="Assets\_scripts\score_survival.cs" Line="24" Column="35" />
+      <File FileName="Assets\_scripts\debrisMovement.cs" Line="39" Column="7" />
+      <File FileName="Assets\_scripts\sun_classic.cs" Line="22" Column="36" />
+      <File FileName="Assets\_scripts\exitApplication.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
