@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{7183E6CF-9F5F-2FF3-19FE-C3B4072D7EB2}") = "Eclipsice", "Assembly-CSharp-vs.csproj", "{58E2E759-5EC4-8739-996A-A697DD76AA52}"
+Project("{9EB0A6EC-AFEC-3792-EAF7-05B9BA05609F}") = "eclipsice", "Assembly-CSharp-vs.csproj", "{5432F512-CA38-6627-AFDB-C288EB55EB30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58E2E759-5EC4-8739-996A-A697DD76AA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58E2E759-5EC4-8739-996A-A697DD76AA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58E2E759-5EC4-8739-996A-A697DD76AA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58E2E759-5EC4-8739-996A-A697DD76AA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5432F512-CA38-6627-AFDB-C288EB55EB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5432F512-CA38-6627-AFDB-C288EB55EB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5432F512-CA38-6627-AFDB-C288EB55EB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5432F512-CA38-6627-AFDB-C288EB55EB30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																		GlobalSection(MonoDevelopProperties) = preSolution
+																																				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
